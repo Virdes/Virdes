@@ -1,7 +1,6 @@
 ### Olá, me chamo Virdes Medeiros
 
 - 🌱 Estou estudando JavaScript / TypeScript / NodeJS / React
-- 👯 Trabalhando duro para conquistar meus sonhos.
 
 <div>
   <a href="https://github.com/virdes">
