@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Aluno da <a href="https://rocketseat.com.br/">Rocketseat</a>.
 - 🌱 &nbsp; Aprendendo atualmente mais sobre TypeScript e React.
-- - 👨‍💻 &nbsp; Graduado em Ciências Contábeis
+- 👨‍💻 &nbsp; Graduado em Ciências Contábeis
 - 👨‍💻 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas
 
 
