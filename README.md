@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Professor na <a href="https://aturin.com.br/">Aturin</a>.
-- 🌱 &nbsp; Apaixonado por idiomas e buscando aprender novos idiomas e diferentes culturas.
-- 👨‍💻 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas
+- 🌱 &nbsp; Apaixonado por idiomas e pela experiências com novas culturas.
+- 👨‍💻 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
 
 
 
