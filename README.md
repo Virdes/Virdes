@@ -3,9 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Aluno da <a href="https://rocketseat.com.br/">Rocketseat</a>.
-- 🌱 &nbsp; Aprendendo atualmente mais sobre TypeScript e React.
-- 👨‍💻 &nbsp; Graduado em Ciências Contábeis
+- 🎓 &nbsp; Professor na <a href="https://aturin.com.br/">Aturin</a>.
+- 🌱 &nbsp; Apaixonado por idiomas e buscando aprender novos idiomas e diferentes culturas.
 - 👨‍💻 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas
 
 
